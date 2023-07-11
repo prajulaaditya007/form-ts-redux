@@ -1,0 +1,49 @@
+{
+  "users": [
+    {
+      "firstName": "John",
+      "lastName": "Doe",
+      "email": "johndoe@example.com",
+      "date_of_birth": "1990-05-15",
+      "gender": "Male",
+      "marital_status": "Single",
+      "education": "Bachelor's Degree"
+    },
+    {
+      "firstName": "Jane",
+      "lastName": "Smith",
+      "email": "janesmith@example.com",
+      "date_of_birth": "1992-09-20",
+      "gender": "Female",
+      "marital_status": "Married",
+      "education": "Master's Degree"
+    },
+    {
+      "firstName": "Michael",
+      "lastName": "Johnson",
+      "email": "michaeljohnson@example.com",
+      "date_of_birth": "1985-12-10",
+      "gender": "Male",
+      "marital_status": "Divorced",
+      "education": "High School Diploma"
+    },
+    {
+      "firstName": "Emily",
+      "lastName": "Davis",
+      "email": "emilydavis@example.com",
+      "date_of_birth": "1994-04-25",
+      "gender": "Female",
+      "marital_status": "Single",
+      "education": "Associate's Degree"
+    },
+    {
+      "firstName": "Daniel",
+      "lastName": "Brown",
+      "email": "danielbrown@example.com",
+      "date_of_birth": "1988-07-05",
+      "gender": "Male",
+      "marital_status": "Married",
+      "education": "PhD"
+    }
+  ]
+}
