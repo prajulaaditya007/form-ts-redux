@@ -27,6 +27,10 @@ const PersonalInformation: React.FC = () => {
     navigate("/confirmation");
   };
 
+  const handlePrev = () => {
+    navigate("/");
+  };
+
   return (
     <div>
       <h2>Personal Information</h2>
@@ -67,6 +71,7 @@ const PersonalInformation: React.FC = () => {
         />
       </div>
       <button onClick={handleNext}>Next</button>
+      <button onClick={handlePrev}>Prev</button>
     </div>
   );
 };

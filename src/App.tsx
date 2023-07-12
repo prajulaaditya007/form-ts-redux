@@ -3,6 +3,7 @@ import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import UserInformation from "./components/UserInformation";
 import PersonalInformation from "./components/PersonalInformation";
 import Confirmation from "./components/Confirmation";
+import "./App.css";
 
 const App: React.FC = () => {
   return (

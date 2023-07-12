@@ -2,7 +2,6 @@ import React, { useState } from "react";
 import { useDispatch } from "react-redux";
 import { useNavigate } from "react-router-dom";
 import { setUserInformation } from "../store/actions";
-import userData from "../data.json";
 
 // Inside the component, you can access the users array:
 
