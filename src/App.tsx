@@ -8,7 +8,7 @@ import "./App.css";
 const App: React.FC = () => {
   return (
     <Router>
-      <div className="App">
+      <div className="container">
         <Routes>
           <Route path="/" Component={UserInformation} />
           <Route path="/personal-information" Component={PersonalInformation} />
